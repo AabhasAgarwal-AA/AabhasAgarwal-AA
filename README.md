@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Full Stack web developer, Big data aspirant, B.Tech 2nd year student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiranmayee1123&label=Profile%20views&color=0e75b6&style=flat" alt="hiranmayee1123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiranmayee1123" alt="hiranmayee1123" /></a> </p>
 
 - 🔭 I’m currently working on [Data Structures](https://github.com/AabhasAgarwal-AA/DSA-LP_BDA-2K21\)
 
