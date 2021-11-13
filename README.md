@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <!-- - 🔭 I’m currently working on [Data Structures](https://github.com/AabhasAgarwal-AA/DSA-LP_BDA-2K21\) -->
-- 🔭 I’m currently working on [Data Structures](https://github.com/AabhasAgarwal-AA/DSA-LP_BDA-2K21\)
+- 🔭 I’m currently working on [Data Structures]
 
 
 - 🌱 I’m currently learning *D.S.A.*
