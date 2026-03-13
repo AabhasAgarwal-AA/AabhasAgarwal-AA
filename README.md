@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">Full Stack web developer, Big data aspirant, B.Tech 2nd year student</h3>
+<h3 align="center">Full Stack web developer</h3>
 
 
 
